@@ -1,0 +1,4 @@
+rootProject.name = 'mpplibtest'
+
+
+enableFeaturePreview('GRADLE_METADATA')
